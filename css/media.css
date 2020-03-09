@@ -1,0 +1,377 @@
+@media screen and (max-width:2560px){
+    nav .navbar-brand{
+        font-size: 70px;
+    }
+    nav .nav-item{
+        font-size: 30px;
+    }
+    /* second section */
+    .card-img-overlay .card-title{
+        font-size: 60px;
+    }
+    .card-img-overlay .card-text{
+        font-size: 80px;
+    }
+
+    .card-img-overlay .card-btn{
+        padding: 20px 30px;
+        font-size: 30px;
+    }
+    /* forth section */
+    .cards h2{
+        margin: 20px;
+        font-size: 80px;
+    }
+    .cards p{
+        font-size: 50px;
+        margin: 40px;
+    }
+    /* footer */
+    footer{
+        font-size: 50px;
+    }
+    .skills .text p{
+        font-size: 50px;
+
+    }
+    /* blog page */
+    .ser-prov span{
+        font-size: 100px !important;
+        margin: 30px 0px !important;
+    }
+    .ser-prov p{
+        font-size: 30px !important;
+    }
+    .blog{
+        flex-direction: column;
+    }
+    .one{
+        margin-left: 0.1rem !important;
+        max-width: 100%;
+    }
+    .blog p,h5{
+        font-size: 80px !important;
+    }
+    .two{
+        margin-right:0.1rem !important;
+        max-width: 100%;
+    }    
+    
+}
+@media screen and (max-width:1440px){
+    nav .navbar-brand{
+        font-size: 40px;
+    }
+    nav .nav-item{
+        font-size: 20px;
+    }
+    /* second section */
+    .card-img-overlay .card-title{
+        font-size: 30px;
+    }
+    .card-img-overlay .card-text{
+        font-size: 50px;
+    }
+
+    .card-img-overlay .card-btn{
+        padding: 10px 20px;
+        font-size: 10px;
+    }
+    /* forth section */
+    .cards h2{
+        margin: 20px;
+        font-size: 50px;
+    }
+    .cards p{
+        font-size: 20px;
+        margin: 20px;
+
+    }
+    /* footer */
+    footer{
+        font-size: 20px;
+    }
+    .skills .text p{
+        font-size: 40px;
+
+    }
+    /* blog page */
+    .ser-prov span{
+        font-size: 70px !important;
+        margin: 30px 0px !important;
+    }
+    .ser-prov p{
+        font-size: 25px !important;
+    }
+    .blog{
+        flex-direction: column;
+    }
+    .one{
+        margin-left: 0.1rem !important;
+        max-width: 100%;
+    }
+    .blog p,h5{
+        font-size: 40px !important;
+    }
+    .two{
+        margin-right:0.1rem !important;
+        max-width: 100%;
+    }
+    
+}
+
+@media screen and (max-width:1024px){
+    /* nav bar */
+    nav .navbar-brand{
+        font-size: 40px;
+    }
+    nav .nav-item{
+        font-size: 15px;
+    }
+    /* second section */
+    .card-img-overlay .card-title{
+        font-size: 25px;
+    }
+    .card-img-overlay .card-text{
+        font-size: 40px;
+    }
+
+    .card-img-overlay .card-btn{
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+    /* forth section */
+    .cards h2{
+        margin: 20px;
+        font-size: 40px;
+    }
+    .cards p{
+        font-size: 15px;
+        margin: 20px;
+
+    }
+    .skills .text p{
+        font-size: 30px;
+
+    }
+    /* blog page */
+    .ser-prov span{
+        font-size: 50px !important;
+        margin: 30px 0px !important;
+    }
+    .ser-prov p{
+        font-size: 20px !important;
+    }
+    .blog{
+        flex-direction: column;
+    }
+    .one{
+        margin-left: 0.1rem !important;
+        max-width: 100%;
+    }
+    .blog p,h5{
+        font-size: 30px !important;
+    }
+    .two{
+        margin-right:0.1rem !important;
+        max-width: 100%;
+    }
+    
+
+    
+}
+@media (max-width: 880px) {
+
+	.footer-distributed{
+		font: bold 14px sans-serif;
+	}
+
+	.footer-distributed .footer-left,
+	.footer-distributed .footer-center,
+	.footer-distributed .footer-right{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+	.footer-distributed .footer-center i{
+		margin-left: 0;
+	}
+
+}
+
+@media screen and (max-width:768px){
+    /* nav bar */
+    nav .navbar-brand{
+        font-size: 40px;
+    }
+    nav .nav-item{
+        font-size: 20px;
+    }
+    /* second section */
+    .card-img-overlay .card-title{
+        font-size: 18px;
+    }
+    .card-img-overlay .card-text{
+        font-size: 30px;
+    }
+    .card-img-overlay .card-btn{
+        padding: 5px 10px;
+        font-size: 10px;
+    }
+       /* forth section */
+    .cards{
+        flex-direction: column;
+    }
+    .cards-body{
+        width: 100% !important;
+    }
+    .cards h2{
+        margin: 15px !important;
+        font-size: 40px;
+    }
+    .cards p{
+        font-size: 10px !important;
+        margin: 20px;
+    }
+
+    .cards-img{
+        width: 100% !important;
+    }
+    /* footer */
+    footer{
+        font-size: 15px;
+    }
+    .skills .text{
+        margin: 10px;
+    }
+    .skills .text p{
+        font-size: 15px;
+    }
+    .card-decks{
+        flex-direction: column;
+    }
+    .card-decks .cardp{
+        width: 100%;
+    }
+    /* blog page */
+    .ser-prov span{
+        font-size: 40px !important;
+        margin: 30px 0px !important;
+    }
+    .ser-prov p{
+        font-size: 20px !important;
+    }
+    .blog{
+        flex-direction: column;
+    }
+    .one{
+        margin-left: 0.1rem !important;
+        max-width: 100%;
+    }
+    .blog p,h5{
+        font-size: 25px !important;
+    }
+    .two{
+        margin-right:0.1rem !important;
+        max-width: 100%;
+    }
+}
+@media screen and (max-width:425px){
+    /* nav bar */
+    nav .navbar-brand{
+        font-size: 25px;
+    }
+    nav .nav-item{
+        font-size: 15px;
+    }
+    /* second section */
+    .card-img-overlay{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    .card-img-overlay .card-title{
+        font-size: 10px;
+        margin: 3px;
+    }
+    .card-img-overlay .card-text{
+        font-size: 25px;
+        margin: 3px;
+    }
+    .card-img-overlay .card-btn{
+        font-size: 10px;
+      padding: 3px 10px;
+    }
+    /* forth section */
+    .cards h2{
+        margin-top: 20px;
+        font-size: 30px;
+    }
+    .cards p{
+        font-size: 15px;
+    }
+    .skills .text{
+        margin: 0px;
+        margin-left: 5px;
+    }
+    .skills .text p{
+        font-size: 15px;
+    }
+    /* blog page */
+    .one,.two{
+        text-align: center;
+    }
+    .one{
+        border-bottom: 5px solid black;
+    }
+}
+@media screen and (max-width:375px){
+    /* nav bar */
+    nav .navbar-brand{
+        font-size: 20px;
+    }
+    nav .nav-item{
+        font-size: 15px;
+    }
+    /* second section */
+    .card-img-overlay{
+        flex-direction: column;
+        flex-wrap: wrap;
+        padding: 0rem;
+    }
+    .card-img-overlay .card-title{
+        font-size:8px;
+    }
+    .card-img-overlay .card-text{
+        font-size: 18px;
+        margin: 0px;
+    }
+    .card-img-overlay .card-btn{
+        width: 20%;
+        height: 25px;
+        font-size: 6px;
+    }
+    /* forth section */
+    .cards h2{
+        margin-top: 20px;
+        font-size: 20px;
+    }
+    .cards p{
+        font-size: 8px;
+        margin:10px 30px;
+    }
+    .skills{
+        flex-direction: column;
+        height: 500px;
+    }
+        /* blog page */
+        .one{
+            border-bottom: 5px solid black !important;
+        }
+        .one,.two{
+            text-align: center;
+        }
+    
+}
